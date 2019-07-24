@@ -1,7 +1,7 @@
 {
   "name": "bitcoind-rpc",
   "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
-  "version": "0.7.2",
+  "version": "0.8.1",
   "author": {
     "name": "Stephen Pair",
     "email": "stephen@bitpay.com"
@@ -42,7 +42,7 @@
     "async": "^0.9.0",
     "chai": "^1.10.0",
     "coveralls": "^2.11.2",
-    "istanbul": "^0.3.5",
+    "istanbul": "^0.4.5",
     "mocha": "^2.1.0",
     "sinon": "^1.12.2"
   },
